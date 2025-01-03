@@ -4,7 +4,7 @@ file.close()
 file=open("file2.txt","w")
 
 for i in range(len(lines)):
-    if(i%2==1):
+    if(i%2!=1):
         file.write(lines[i])        
 
 file=open("file2.txt")
