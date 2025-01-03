@@ -1,4 +1,4 @@
-import csv
+
 
 datadict=[
     {"Rollno":"3","Name":"Babu","Place":"Malappuram"},
