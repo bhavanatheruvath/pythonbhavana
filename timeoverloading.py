@@ -1,3 +1,5 @@
+#Create a class Time with private attributes hour, minute and second. Overload ‘+’ operator to 
+find sum of 2 time.
 class Time:
     def __init__(self,hours=0,mins=0,secs=0):
         self.hours=hours
