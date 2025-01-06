@@ -24,7 +24,7 @@
 22 [Construct the Number pyramid using nested loop](multiplerows.py)  
 23 [Construct the pattern using nested loop](starpattern.py)  
 24 [Compare Area of Rectangle class](areaperimeterofrectangle.py)  
-25 [Operator Overloading](rectangleoverloading)  
+25 [Operator Overloading](rectangleoverloading.py)  
 26 [Bank account (Constructor and Methods)](banking.py)  
 27 [Time (Private attributes, Overloading)](timeoverloading.py)  
 28 [Publisher, Book, Python (Base class constructor invocation, method overriding)](publisher.py)  
