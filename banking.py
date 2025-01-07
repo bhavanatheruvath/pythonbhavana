@@ -1,5 +1,4 @@
-#Create a Bank account with members account number, name, type of account and balance. 
-Write constructor and methods to deposit at the bank and withdraw an amount from the bank.
+#Create a Bank account with members account number, name, type of account and balance.Write constructor and methods to deposit at the bank and withdraw an amount from the bank.
 class Bankaccount:
     def __init__(self,account_no,name,account_type):
        self.account_no=account_no
