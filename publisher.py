@@ -7,8 +7,8 @@ class Publisher:
         print("Name of Publisher: ", self.__name)
     
 class Book(Publisher):
-    def __init__(self, pubname, title, author):
-        super().__init__(pubname)
+    def __init__(self, name, title, author):
+        super().__init__(name)
         self.__title= title
         self.__author = author
         
@@ -17,8 +17,8 @@ class Book(Publisher):
         print("Book Title:",self.__title)
         print("Book Author:",self.__author)
 class Python(Book):
-    def __init__(self,pubname, title, author,price, pages):
-        super().__init__(pubname, title, author)
+    def __init__(self,name, title, author,price, pages):
+        super().__init__(name, title, author)
         self.__price=price
         self.__page=pages
     def display(self):
